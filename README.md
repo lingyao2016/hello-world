@@ -1,6 +1,5 @@
 # hello-world
-just a new one
-haha
-here come i
 
-emm, nothing happenned these days
+Some py scripts for learning.
+py_tools
+py_problems
